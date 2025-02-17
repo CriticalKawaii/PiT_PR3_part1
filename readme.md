@@ -114,7 +114,7 @@ namespace ConsoleApp_FirstApp
 - Использование окна "Наблюдение"
 - Проверка стека вызовов
 
-[Letters.cs]((https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Letters.cs))
+[Letters.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Letters.cs)
 ```c#
 using System;
 
