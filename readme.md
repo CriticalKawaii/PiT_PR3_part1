@@ -6,6 +6,7 @@
 - Пошаговое выполнение с использованием Breakpoints (точки остановы)
 - Проверка состояния локальных переменных
 - Использование Debugger controls (step into, step over, step out)
+[https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs](Fibonacci.cs)
 ```c#
 int result = Fibonacci(5);
 Console.WriteLine(result);
