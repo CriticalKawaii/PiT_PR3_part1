@@ -35,7 +35,7 @@ static int Fibonacci(int n)
 - Использование Debugger controls (step into, step over, step out)
 - Использование переменных и состояния объектов во время отладки
 
-[Galaxy.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs)
+[Galaxy.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Galaxy.cs)
 ```c#
 using System;
 using System.Collections.Generic;
@@ -114,7 +114,7 @@ namespace ConsoleApp_FirstApp
 - Использование окна "Наблюдение"
 - Проверка стека вызовов
 
-[Letters.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs)
+[Letters.cs]((https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Letters.cs))
 ```c#
 using System;
 
