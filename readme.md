@@ -6,7 +6,7 @@
 - Пошаговое выполнение с использованием Breakpoints (точки остановы)
 - Проверка состояния локальных переменных
 - Использование Debugger controls (step into, step over, step out)
-[https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs](Fibonacci.cs)
+[Fibonacci.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs)
 ```c#
 int result = Fibonacci(5);
 Console.WriteLine(result);
@@ -33,6 +33,7 @@ static int Fibonacci(int n)
 - Пошаговое выполнение с использованием Breakpoints
 - Использование Debugger controls (step into, step over, step out)
 - Использование переменных и состояния объектов во время отладки
+[Galaxy.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs)
 ```c#
 using System;
 using System.Collections.Generic;
@@ -110,6 +111,7 @@ namespace ConsoleApp_FirstApp
 - Проверка состояния локальных переменных
 - Использование окна "Наблюдение"
 - Проверка стека вызовов
+[Letters.cs](https://github.com/CriticalKawaii/PiT_PR3_part1/blob/master/Fibonacci.cs)
 ```c#
 using System;
 
